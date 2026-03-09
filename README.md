@@ -45,6 +45,8 @@ The dashboard will load the datasets and generate interactive visualizations inc
 - Heatmap of bond returns during tightening periods
 - Relationship between Federal Funds Rate changes and bond returns
 
+Note: Streamlit Community Cloud apps may go to sleep if they have not been accessed in the last 24 hours. If this happens, the app may take a few minutes to “wake up” when the link is opened. This is normal behavior and not a bug.
+
 ---
 
 ## Data Sources
